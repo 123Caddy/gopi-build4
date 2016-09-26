@@ -17,7 +17,7 @@ namespace Gopi_Build_Dll.Controllers
     [InitializeSimpleMembership]
     public class AccountController : Controller
     {
-        //
+        // GET: Gopi Nadh Reddy
         // GET: /Account/Login
 
         [AllowAnonymous]
